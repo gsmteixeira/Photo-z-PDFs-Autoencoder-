@@ -17,7 +17,7 @@ AE archtecture and hyperparameters (AUTOENCODER_training.py).
 Notebook for analysis (analysis.ipynb).
 
 ## Steps:
-Run AUTOENCODER_training.py to have the AE model.
+Run AUTOENCODER_training.py to train the AE model.
 
 Navigate through the analysis.ipynb to make compare the decoded results with the results from the MDN model and the spec-z. 
 
