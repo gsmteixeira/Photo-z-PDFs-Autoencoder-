@@ -2,8 +2,6 @@
 Example code of how to train and validate the autoencoder for photometric redshifts PDFs from MDN
 
 ## This repo contains:
-Training set DLTRAIN-A.
-
 Reduced test set (clpoud storage reasons).
 
 PDF parameters generated from the MDN for the entire DLTRAIN-A.
